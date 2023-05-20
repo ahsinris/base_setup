@@ -1,2 +1,2 @@
 #Node Base Setup
- -Node base setup with express, mysql2
+ -Node base setup with express, mysql2, nodemon
